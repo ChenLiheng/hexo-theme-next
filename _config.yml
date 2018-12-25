@@ -514,7 +514,7 @@ pangu: false
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: devnote-info
   count: true
   lazyload: true
 
@@ -726,7 +726,7 @@ baidu_push: true
 # api_key: https://console.developers.google.com
 # Create & manage a public Google calendar: https://support.google.com/calendar/answer/37083?hl=en
 calendar:
-  enable: false
+  enable: falseDisqus
   calendar_id: <required> # Your Google account E-Mail
   api_key: <required>
   orderBy: startTime
